@@ -8,6 +8,12 @@ The application is a fun little quiz about JavaScript knowledge where you can te
 
 [Access Here 🌐](https://leticiacristinaa.github.io/quiz-app/)
 
+### Screenshot
+
+#### 🖥️ Desktop:
+
+![img1](https://github.com/leticiacristinaa/quiz-app/blob/main/css/layout.png)
+
 ## My process
 
 ### Built with
